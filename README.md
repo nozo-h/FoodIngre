@@ -2,7 +2,8 @@
 
 FoodIngre(フートイングリ)は食品情報（栄養成分や原材料等）が**一目で分かる** + **その情報をみんなで投稿して共有する**サービスです。
 ##### ホーム画面
-<img width="900" alt="app-home" src="https://github.com/nozo-h/Foodingre_App/assets/85116974/164a471d-783d-4666-8559-e2979a4d098a">
+<img width="900" alt="app-home" src="https://github.com/user-attachments/assets/0a28ae66-f67d-4a7b-b52f-aae2136a4515">
+
 
 ## アプリのURL
 
@@ -51,30 +52,29 @@ FoodIngre(フートイングリ)は食品情報（栄養成分や原材料等）
 
 カテゴリごとに分類し、情報を探しやすい設計しています
 
-<img width="700" alt="app-category" src="https://github.com/nozo-h/Foodingre_App/assets/85116974/c49f4489-21a6-44cc-978d-54a9d0a27ab1">
+<img width="700" alt="app-category" src="https://github.com/user-attachments/assets/cdbe9955-a5a0-4ed5-9d2b-705f61faf494">
 
 
 #### 検索画面
 検索機能では商品名、企業名（製造所、販売者など）、原材料等のキーワードから情報を探すことができます
 
-<img width="700" alt="app-search" src="https://github.com/nozo-h/Foodingre_App/assets/85116974/8a571661-08f7-4a9b-ac20-a70f734f7a4a">
+<img width="700" alt="app-search" src="https://github.com/user-attachments/assets/5a7166b5-99a4-434d-9c35-8ddc1d6a9310">
 
 
 #### 食品情報の情報イメージ
 食品の画像、原材料、栄養成分や製造者などを情報として掲載できます
 
-<img width="700" alt="app-detail" src="https://github.com/nozo-h/Foodingre_App/assets/85116974/66feac9b-4cf6-4bb0-9f4d-1ca0975a3be2">
+<img width="700" alt="app-detail" src="https://github.com/user-attachments/assets/96318742-c1d1-4cca-b6c4-b0af971b0858">
 
 
 #### 投稿画面
-<img width="700" alt="app-create" src="https://github.com/nozo-h/Foodingre_App/assets/85116974/487d81dd-08db-48de-ae61-4177ed4b9e15">
+<img width="700" alt="app-create" src="https://github.com/user-attachments/assets/c6806011-70a2-4118-a0f5-5aa197c8ee5f">
 
 #### その他：レスポンシブ対応
 
 スマートフォンやタブレットなどのレスポンシブ画面にも対応しています。
 
-<img width="200" alt="app-responsive-home" src="https://github.com/nozo-h/Foodingre_App/assets/85116974/7b6c8c77-a88d-45bd-9595-97701c40d35e">
-
+<img width="200" alt="app-responsive-home" src="https://github.com/user-attachments/assets/e997c37b-5e6d-4af0-99ea-c286c9d29566">
 
 ## 使用技術
 ### フロントエンド
@@ -105,12 +105,11 @@ FoodIngre(フートイングリ)は食品情報（栄養成分や原材料等）
   - ELB
 
 ### インフラ構成図
-
-![app-aws-architecture](https://github.com/nozo-h/Foodingre_App/assets/85116974/b54eb323-4160-4344-ad1f-593018744a46)
+![app-aws-architecture](https://github.com/user-attachments/assets/851108cc-3f5d-4ab9-abb6-a631b9661e42)
 ※費用面と本番環境へのリリースを優先するため、実際の商用構成のように冗長ではなく単一構成にしています。
 
 ### ER図
-![app-er](https://github.com/nozo-h/Foodingre_App/assets/85116974/eb2d93f9-72e0-476d-8862-a731624d2999)
+![app-er](https://github.com/user-attachments/assets/a62d7f15-57dd-4f64-8e74-31ee0049dbfe)
 
 ## 今後の予定
 現在は一部開発中のため、以下機能を追加予定（検討含め）中です。
