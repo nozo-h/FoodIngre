@@ -6,9 +6,9 @@ FoodIngre(フートイングリ)は食品情報（栄養成分や原材料等）
 
 ## アプリのURL
 
-[FoodIngre](https://foodingre-app.com/)
+[FoodIngre]~~(https://foodingre-app.com/)~~
 
-※2024/2/18現在
+※2024/2/18現在（2024年10月閉鎖）
 
 ## アプリの概要
 
