@@ -1,0 +1,1 @@
+<x-error-templates.error-format statusMessage="ページの有効期限が切れました" statusCode="419" />

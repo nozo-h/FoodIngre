@@ -1,0 +1,1 @@
+<x-error-templates.error-format statusMessage="サービスは利用できません" statusCode="503" />

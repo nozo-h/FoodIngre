@@ -1,0 +1,1 @@
+<x-error-templates.error-format statusMessage="ページが存在しません" statusCode="404" />

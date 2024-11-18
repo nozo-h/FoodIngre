@@ -1,0 +1,23 @@
+.swiper-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.swiper-pagination, .swiper-button-prev, .swiper-button-next {
+    position: absolute;
+    bottom: 10px;  /* 適切な位置に調整してください */
+    left: 25%;     /* 中央に寄せるために左端から中央に調整してください */
+    transform: translateX(-25%);
+    z-index: 1;
+    --swiper-navigation-color: #9cdbb2;
+    --swiper-pagination-color: #9cdbb2;
+    --swiper-pagination-bullet-inactive-color: #565656;
+    --swiper-pagination-bullet-inactive-opacity: 0.8;
+    --swiper-pagination-bullet-opacity: 1;
+}
+
+.swiper-slide img {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
